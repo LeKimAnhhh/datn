@@ -1,0 +1,726 @@
+[
+    {
+        "ProvinceID": 269,
+        "ProvinceName": "Lào Cai",
+        "NameExtension": [
+            "Lào Cai",
+            "Tỉnh Lào Cai",
+            "T.Lào Cai",
+            "T Lào Cai",
+            "laocai"
+        ]
+    },
+    {
+        "ProvinceID": 268,
+        "ProvinceName": "Hưng Yên",
+        "NameExtension": [
+            "Hưng Yên",
+            "Tỉnh Hưng Yên",
+            "T.Hưng Yên",
+            "T Hưng Yên",
+            "hungyen"
+        ]
+    },
+    {
+        "ProvinceID": 267,
+        "ProvinceName": "Hòa Bình",
+        "NameExtension": [
+            "Hòa Bình",
+            "Tỉnh Hòa Bình",
+            "T.Hòa Bình",
+            "T Hòa Bình",
+            "hoabinh"
+        ]
+    },
+    {
+        "ProvinceID": 266,
+        "ProvinceName": "Sơn La",
+        "NameExtension": [
+            "Sơn La",
+            "Tỉnh Sơn La",
+            "T.Sơn La",
+            "T Sơn La",
+            "sonla"
+        ]
+    },
+    {
+        "ProvinceID": 265,
+        "ProvinceName": "Điện Biên",
+        "NameExtension": [
+            "Điện Biên",
+            "Tỉnh Điện Biên",
+            "T.Điện Biên",
+            "T Điện Biên",
+            "dienbien"
+        ]
+    },
+    {
+        "ProvinceID": 264,
+        "ProvinceName": "Lai Châu",
+        "NameExtension": [
+            "Lai Châu",
+            "Tỉnh Lai Châu",
+            "T.Lai Châu",
+            "T Lai Châu",
+            "laichau"
+        ]
+    },
+    {
+        "ProvinceID": 263,
+        "ProvinceName": "Yên Bái",
+        "NameExtension": [
+            "Yên Bái",
+            "Tỉnh Yên Bái",
+            "T.Yên Bái",
+            "T Yên Bái",
+            "yenbai"
+        ]
+    },
+    {
+        "ProvinceID": 262,
+        "ProvinceName": "Bình Định",
+        "NameExtension": [
+            "Bình Định",
+            "Tỉnh Bình Định",
+            "T.Bình Định",
+            "T Bình Định",
+            "binhdinh",
+            "Binh Dinh",
+            "binh dinh"
+        ]
+    },
+    {
+        "ProvinceID": 261,
+        "ProvinceName": "Ninh Thuận",
+        "NameExtension": [
+            "Ninh Thuận",
+            "Tỉnh Ninh Thuận",
+            "T.Ninh Thuận",
+            "T Ninh Thuận",
+            "ninhthuan"
+        ]
+    },
+    {
+        "ProvinceID": 260,
+        "ProvinceName": "Phú Yên",
+        "NameExtension": [
+            "Phú Yên",
+            "Tỉnh Phú Yên",
+            "T.Phú Yên",
+            "T Phú Yên",
+            "phuyen"
+        ]
+    },
+    {
+        "ProvinceID": 259,
+        "ProvinceName": "Kon Tum",
+        "NameExtension": [
+            "Kon Tum",
+            "Tỉnh Kon Tum",
+            "T.Kon Tum",
+            "T Kon Tum",
+            "kontum",
+            "contum"
+        ]
+    },
+    {
+        "ProvinceID": 258,
+        "ProvinceName": "Bình Thuận",
+        "NameExtension": [
+            "Bình Thuận",
+            "Tỉnh Bình Thuận",
+            "T.Bình Thuận",
+            "T Bình Thuận",
+            "binhthuan"
+        ]
+    },
+    {
+        "ProvinceID": 253,
+        "ProvinceName": "Bạc Liêu",
+        "NameExtension": [
+            "Bạc Liêu",
+            "Tỉnh Bạc Liêu",
+            "T.Bạc Liêu",
+            "T Bạc Liêu",
+            "baclieu"
+        ]
+    },
+    {
+        "ProvinceID": 252,
+        "ProvinceName": "Cà Mau",
+        "NameExtension": [
+            "Cà Mau",
+            "Tỉnh Cà Mau",
+            "T.Cà Mau",
+            "T Cà Mau",
+            "camau"
+        ]
+    },
+    {
+        "ProvinceID": 250,
+        "ProvinceName": "Hậu Giang",
+        "NameExtension": [
+            "Hậu Giang",
+            "Tỉnh Hậu Giang",
+            "T.Hậu Giang",
+            "T Hậu Giang",
+            "haugiang"
+        ]
+    },
+    {
+        "ProvinceID": 249,
+        "ProvinceName": "Bắc Ninh",
+        "NameExtension": [
+            "Bắc Ninh",
+            "Tỉnh Bắc Ninh",
+            "T.Bắc Ninh",
+            "T Bắc Ninh",
+            "bacninh"
+        ]
+    },
+    {
+        "ProvinceID": 248,
+        "ProvinceName": "Bắc Giang",
+        "NameExtension": [
+            "Bắc Giang",
+            "Tỉnh Bắc Giang",
+            "T.Bắc Giang",
+            "T Bắc Giang",
+            "bacgiang"
+        ]
+    },
+    {
+        "ProvinceID": 247,
+        "ProvinceName": "Lạng Sơn",
+        "NameExtension": [
+            "Lạng Sơn",
+            "Tỉnh Lạng Sơn",
+            "T.Lạng Sơn",
+            "T Lạng Sơn",
+            "langson"
+        ]
+    },
+    {
+        "ProvinceID": 246,
+        "ProvinceName": "Cao Bằng",
+        "NameExtension": [
+            "Cao Bằng",
+            "Tỉnh Cao Bằng",
+            "T.Cao Bằng",
+            "T Cao Bằng",
+            "caobang"
+        ]
+    },
+    {
+        "ProvinceID": 245,
+        "ProvinceName": "Bắc Kạn",
+        "NameExtension": [
+            "Bắc Kạn",
+            "Tỉnh Bắc Kạn",
+            "T.Bắc Kạn",
+            "T Bắc Kạn",
+            "backan",
+            "baccan"
+        ]
+    },
+    {
+        "ProvinceID": 244,
+        "ProvinceName": "Thái Nguyên",
+        "NameExtension": [
+            "Thái Nguyên",
+            "Tỉnh Thái Nguyên",
+            "T.Thái Nguyên",
+            "T Thái Nguyên",
+            "thainguyen"
+        ]
+    },
+    {
+        "ProvinceID": 243,
+        "ProvinceName": "Quảng Nam",
+        "NameExtension": [
+            "Quảng Nam",
+            "Tỉnh Quảng Nam",
+            "T.Quảng Nam",
+            "T Quảng Nam",
+            "quangnam"
+        ]
+    },
+    {
+        "ProvinceID": 242,
+        "ProvinceName": "Quảng Ngãi",
+        "NameExtension": [
+            "Quảng Ngãi",
+            "Tỉnh Quảng Ngãi",
+            "T.Quảng Ngãi",
+            "T Quảng Ngãi",
+            "quangngai"
+        ]
+    },
+    {
+        "ProvinceID": 241,
+        "ProvinceName": "Đắk Nông",
+        "NameExtension": [
+            "Đắk Nông",
+            "Tỉnh Đắk Nông",
+            "T.Đắk Nông",
+            "T Đắk Nông",
+            "Đăk Nông",
+            "daknong",
+            "dacnong",
+            "dak nong"
+        ]
+    },
+    {
+        "ProvinceID": 240,
+        "ProvinceName": "Tây Ninh",
+        "NameExtension": [
+            "Tây Ninh",
+            "Tỉnh Tây Ninh",
+            "T.Tây Ninh",
+            "T Tây Ninh",
+            "tayninh"
+        ]
+    },
+    {
+        "ProvinceID": 239,
+        "ProvinceName": "Bình Phước",
+        "NameExtension": [
+            "Bình Phước",
+            "Tỉnh Bình Phước",
+            "T.Bình Phước",
+            "T Bình Phước",
+            "binhphuoc"
+        ]
+    },
+    {
+        "ProvinceID": 238,
+        "ProvinceName": "Quảng Trị",
+        "NameExtension": [
+            "Quảng Trị",
+            "Tỉnh Quảng Trị",
+            "T.Quảng Trị",
+            "T Quảng Trị",
+            "quangtri"
+        ]
+    },
+    {
+        "ProvinceID": 237,
+        "ProvinceName": "Quảng Bình",
+        "NameExtension": [
+            "Quảng Bình",
+            "Tỉnh Quảng Bình",
+            "T.Quảng Bình",
+            "T Quảng Bình",
+            "quangbinh"
+        ]
+    },
+    {
+        "ProvinceID": 236,
+        "ProvinceName": "Hà Tĩnh",
+        "NameExtension": [
+            "Hà Tĩnh",
+            "Tỉnh Hà Tĩnh",
+            "T.Hà Tĩnh",
+            "T Hà Tĩnh",
+            "hatinh"
+        ]
+    },
+    {
+        "ProvinceID": 235,
+        "ProvinceName": "Nghệ An",
+        "NameExtension": [
+            "Nghệ An",
+            "Tỉnh Nghệ An",
+            "T.Nghệ An",
+            "T Nghệ An",
+            "nghean"
+        ]
+    },
+    {
+        "ProvinceID": 234,
+        "ProvinceName": "Thanh Hóa",
+        "NameExtension": [
+            "Thanh Hóa",
+            "Tỉnh Thanh Hóa",
+            "T.Thanh Hóa",
+            "T Thanh Hóa",
+            "thanhhoa"
+        ]
+    },
+    {
+        "ProvinceID": 233,
+        "ProvinceName": "Ninh Bình",
+        "NameExtension": [
+            "Ninh Bình",
+            "Tỉnh Ninh Bình",
+            "T.Ninh Bình",
+            "T Ninh Bình",
+            "ninhbinh"
+        ]
+    },
+    {
+        "ProvinceID": 232,
+        "ProvinceName": "Hà Nam",
+        "NameExtension": [
+            "Hà Nam",
+            "Tỉnh Hà Nam",
+            "T.Hà Nam",
+            "T Hà Nam",
+            "hanam"
+        ]
+    },
+    {
+        "ProvinceID": 231,
+        "ProvinceName": "Nam Định",
+        "NameExtension": [
+            "Nam Định",
+            "Tỉnh Nam Định",
+            "T.Nam Định",
+            "T Nam Định",
+            "namdinh"
+        ]
+    },
+    {
+        "ProvinceID": 230,
+        "ProvinceName": "Quảng Ninh",
+        "NameExtension": [
+            "Quảng Ninh",
+            "Tỉnh Quảng Ninh",
+            "T.Quảng Ninh",
+            "T Quảng Ninh",
+            "quangninh"
+        ]
+    },
+    {
+        "ProvinceID": 229,
+        "ProvinceName": "Phú Thọ",
+        "NameExtension": [
+            "Phú Thọ",
+            "Tỉnh Phú Thọ",
+            "T.Phú Thọ",
+            "T Phú Thọ",
+            "phutho"
+        ]
+    },
+    {
+        "ProvinceID": 228,
+        "ProvinceName": "Tuyên Quang",
+        "NameExtension": [
+            "Tuyên Quang",
+            "Tỉnh Tuyên Quang",
+            "T.Tuyên Quang",
+            "T Tuyên Quang",
+            "tuyenquang"
+        ]
+    },
+    {
+        "ProvinceID": 227,
+        "ProvinceName": "Hà Giang",
+        "NameExtension": [
+            "Hà Giang",
+            "Tỉnh Hà Giang",
+            "T.Hà Giang",
+            "T Hà Giang",
+            "hagiang"
+        ]
+    },
+    {
+        "ProvinceID": 226,
+        "ProvinceName": "Thái Bình",
+        "NameExtension": [
+            "Thái Bình",
+            "Tỉnh Thái Bình",
+            "T.Thái Bình",
+            "T Thái Bình",
+            "thaibinh"
+        ]
+    },
+    {
+        "ProvinceID": 225,
+        "ProvinceName": "Hải Dương",
+        "NameExtension": [
+            "Hải Dương",
+            "Tỉnh Hải Dương",
+            "T.Hải Dương",
+            "T Hải Dương",
+            "haiduong"
+        ]
+    },
+    {
+        "ProvinceID": 224,
+        "ProvinceName": "Hải Phòng",
+        "NameExtension": [
+            "Hải Phòng",
+            "TP.Hải Phòng",
+            "TP. Hải Phòng",
+            "TP Hải Phòng",
+            "Thành phố Hải Phòng",
+            "haiphong"
+        ]
+    },
+    {
+        "ProvinceID": 223,
+        "ProvinceName": "Thừa Thiên Huế",
+        "NameExtension": [
+            "Thừa Thiên Huế",
+            "Thừa Thiên - Huế",
+            "Tỉnh Thừa Thiên - Huế",
+            "T.Thừa Thiên - Huế",
+            "T Thừa Thiên - Huế",
+            "hue",
+            "thuathienhue",
+            "Tỉnh Thừa Thiên Huế"
+        ]
+    },
+    {
+        "ProvinceID": 221,
+        "ProvinceName": "Vĩnh Phúc",
+        "NameExtension": [
+            "Vĩnh Phúc",
+            "Tỉnh Vĩnh Phúc",
+            "T.Vĩnh Phúc",
+            "T Vĩnh Phúc",
+            "vinhphuc"
+        ]
+    },
+    {
+        "ProvinceID": 220,
+        "ProvinceName": "Cần Thơ",
+        "NameExtension": [
+            "Cần Thơ",
+            "TP.Cần Thơ",
+            "TP. Cần Thơ",
+            "TP Cần Thơ",
+            "Thành phố Cần Thơ",
+            "cantho"
+        ]
+    },
+    {
+        "ProvinceID": 219,
+        "ProvinceName": "Kiên Giang",
+        "NameExtension": [
+            "Kiên Giang",
+            "Tỉnh Kiên Giang",
+            "T.Kiên Giang",
+            "T Kiên Giang",
+            "kiengiang"
+        ]
+    },
+    {
+        "ProvinceID": 218,
+        "ProvinceName": "Sóc Trăng",
+        "NameExtension": [
+            "Sóc Trăng",
+            "Tỉnh Sóc Trăng",
+            "T.Sóc Trăng",
+            "T Sóc Trăng",
+            "soctrang"
+        ]
+    },
+    {
+        "ProvinceID": 217,
+        "ProvinceName": "An Giang",
+        "NameExtension": [
+            "An Giang",
+            "Tỉnh An Giang",
+            "T.An Giang",
+            "T An Giang",
+            "angiang"
+        ]
+    },
+    {
+        "ProvinceID": 216,
+        "ProvinceName": "Đồng Tháp",
+        "NameExtension": [
+            "Đồng Tháp",
+            "Tỉnh Đồng Tháp",
+            "T.Đồng Tháp",
+            "T Đồng Tháp",
+            "dongthap"
+        ]
+    },
+    {
+        "ProvinceID": 215,
+        "ProvinceName": "Vĩnh Long",
+        "NameExtension": [
+            "Vĩnh Long",
+            "Tỉnh Vĩnh Long",
+            "T.Vĩnh Long",
+            "T Vĩnh Long",
+            "vinhlong"
+        ]
+    },
+    {
+        "ProvinceID": 214,
+        "ProvinceName": "Trà Vinh",
+        "NameExtension": [
+            "Trà Vinh",
+            "Tỉnh Trà Vinh",
+            "T.Trà Vinh",
+            "T Trà Vinh",
+            "travinh"
+        ]
+    },
+    {
+        "ProvinceID": 213,
+        "ProvinceName": "Bến Tre",
+        "NameExtension": [
+            "Bến Tre",
+            "Tỉnh Bến Tre",
+            "T.Bến Tre",
+            "T Bến Tre",
+            "bentre"
+        ]
+    },
+    {
+        "ProvinceID": 212,
+        "ProvinceName": "Tiền Giang",
+        "NameExtension": [
+            "Tiền Giang",
+            "Tỉnh Tiền Giang",
+            "T.Tiền Giang",
+            "T Tiền Giang",
+            "tiengiang"
+        ]
+    },
+    {
+        "ProvinceID": 211,
+        "ProvinceName": "Long An",
+        "NameExtension": [
+            "Long An",
+            "Tỉnh Long An",
+            "T.Long An",
+            "T Long An",
+            "longan"
+        ]
+    },
+    {
+        "ProvinceID": 210,
+        "ProvinceName": "Đắk Lắk",
+        "NameExtension": [
+            "Đắk Lắk",
+            "Tỉnh Đắk Lắk",
+            "T.Đắk Lắk",
+            "T Đắk Lắk",
+            "Đăk Lăk",
+            "daklak",
+            "daclac",
+            "daklac",
+            "daclak"
+        ]
+    },
+    {
+        "ProvinceID": 209,
+        "ProvinceName": "Lâm Đồng",
+        "NameExtension": [
+            "Lâm Đồng",
+            "Tỉnh Lâm Đồng",
+            "T.Lâm Đồng",
+            "T Lâm Đồng",
+            "lamdong"
+        ]
+    },
+    {
+        "ProvinceID": 208,
+        "ProvinceName": "Khánh Hòa",
+        "NameExtension": [
+            "Khánh Hòa",
+            "Tỉnh Khánh Hòa",
+            "T.Khánh Hòa",
+            "T Khánh Hòa",
+            "khanhhoa"
+        ]
+    },
+    {
+        "ProvinceID": 207,
+        "ProvinceName": "Gia Lai",
+        "NameExtension": [
+            "Gia Lai",
+            "Tỉnh Gia Lai",
+            "T.Gia Lai",
+            "T Gia Lai",
+            "gialai"
+        ]
+    },
+    {
+        "ProvinceID": 206,
+        "ProvinceName": "Bà Rịa - Vũng Tàu",
+        "NameExtension": [
+            "Bà Rịa - Vũng Tàu",
+            "Tỉnh Bà Rịa - Vũng Tàu",
+            "T.Bà Rịa - Vũng Tàu",
+            "T Bà Rịa - Vũng Tàu",
+            "Bà Rịa Vũng Tàu",
+            "bariavungtau",
+            "vungtau",
+            "Bà Rịa-Vũng Tàu",
+            "bà rịa-vũng tàu"
+        ]
+    },
+    {
+        "ProvinceID": 205,
+        "ProvinceName": "Bình Dương",
+        "NameExtension": [
+            "Bình Dương",
+            "Tỉnh Bình Dương",
+            "T.Bình Dương",
+            "T Bình Dương",
+            "binhduong"
+        ]
+    },
+    {
+        "ProvinceID": 204,
+        "ProvinceName": "Đồng Nai",
+        "NameExtension": [
+            "Đồng Nai",
+            "Tỉnh Đồng Nai",
+            "T.Đồng Nai",
+            "T Đồng Nai",
+            "dongnai"
+        ]
+    },
+    {
+        "ProvinceID": 203,
+        "ProvinceName": "Đà Nẵng",
+        "NameExtension": [
+            "Đà Nẵng",
+            "TP.Đà Nẵng",
+            "TP. Đà Nẵng",
+            "TP Đà Nẵng",
+            "Thành phố Đà Nẵng",
+            "danang",
+            "DN"
+        ]
+    },
+    {
+        "ProvinceID": 202,
+        "ProvinceName": "Hồ Chí Minh",
+        "NameExtension": [
+            "Hồ Chí Minh",
+            "TP.Hồ Chí Minh",
+            "TP. Hồ Chí Minh",
+            "TP Hồ Chí Minh",
+            "Thành phố Hồ Chí Minh",
+            "HCM",
+            "hochiminh",
+            "saigon",
+            "sg",
+            "Ho Chi Minh",
+            "ho chi minh"
+        ]
+    },
+    {
+        "ProvinceID": 201,
+        "ProvinceName": "Hà Nội",
+        "NameExtension": [
+            "Hà Nội",
+            "TP.Hà Nội",
+            "TP. Hà Nội",
+            "TP Hà Nội",
+            "Thành phố Hà Nội",
+            "hanoi",
+            "HN",
+            "ha noi"
+        ]
+    }
+]
